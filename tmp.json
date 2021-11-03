@@ -8,9 +8,7 @@
       },
       "iconUrl": "https://s3-us-west-1.amazonaws.com/angular-university/course-images/serverless-angular-small.png",
       "lessonsCount": 10,
-      "categories": [
-        "BEGINNER"
-      ],
+      "categories": ["BEGINNER"],
       "seqNo": 4,
       "url": "serverless-angular",
       "price": 50
@@ -23,9 +21,7 @@
       },
       "iconUrl": "https://s3-us-west-1.amazonaws.com/angular-university/course-images/angular-core-in-depth-small.png",
       "lessonsCount": 10,
-      "categories": [
-        "BEGINNER"
-      ],
+      "categories": ["BEGINNER"],
       "seqNo": 5,
       "url": "angular-core-course",
       "price": 50
@@ -38,9 +34,7 @@
       },
       "iconUrl": "https://s3-us-west-1.amazonaws.com/angular-university/course-images/rxjs-in-practice-course.png",
       "courseListIcon": "https://angular-academy.s3.amazonaws.com/main-logo/main-page-logo-small-hat.png",
-      "categories": [
-        "BEGINNER"
-      ],
+      "categories": ["BEGINNER"],
       "lessonsCount": 10,
       "seqNo": 6,
       "url": "rxjs-course",
@@ -53,9 +47,7 @@
         "longDescription": "Learn the modern Ngrx Ecosystem, including NgRx Data, Store, Effects, Router Store, Ngrx Entity, and Dev Tools."
       },
       "iconUrl": "https://angular-university.s3-us-west-1.amazonaws.com/course-images/ngrx-v2.png",
-      "categories": [
-        "BEGINNER"
-      ],
+      "categories": ["BEGINNER"],
       "lessonsCount": 10,
       "seqNo": 1,
       "url": "ngrx-course",
@@ -70,9 +62,7 @@
       },
       "iconUrl": "https://angular-academy.s3.amazonaws.com/thumbnails/angular2-for-beginners-small-v2.png",
       "courseListIcon": "https://angular-academy.s3.amazonaws.com/main-logo/main-page-logo-small-hat.png",
-      "categories": [
-        "BEGINNER"
-      ],
+      "categories": ["BEGINNER"],
       "lessonsCount": 10,
       "seqNo": 7,
       "url": "angular-for-beginners",
@@ -86,9 +76,7 @@
       },
       "iconUrl": "https://s3-us-west-1.amazonaws.com/angular-university/course-images/security-cover-small-v2.png",
       "courseListIcon": "https://s3-us-west-1.amazonaws.com/angular-university/course-images/lock-v2.png",
-      "categories": [
-        "ADVANCED"
-      ],
+      "categories": ["ADVANCED"],
       "lessonsCount": 11,
       "seqNo": 8,
       "url": "angular-security-course",
@@ -102,9 +90,7 @@
       },
       "iconUrl": "https://s3-us-west-1.amazonaws.com/angular-university/course-images/angular-pwa-course.png",
       "courseListIcon": "https://s3-us-west-1.amazonaws.com/angular-university/course-images/alien.png",
-      "categories": [
-        "ADVANCED"
-      ],
+      "categories": ["ADVANCED"],
       "lessonsCount": 8,
       "seqNo": 9,
       "url": "angular-pwa-course",
@@ -118,10 +104,7 @@
       },
       "iconUrl": "https://angular-academy.s3.amazonaws.com/thumbnails/advanced_angular-small-v3.png",
       "courseListIcon": "https://angular-academy.s3.amazonaws.com/thumbnails/angular-advanced-lesson-icon.png",
-      "categories": [
-        "INTERMEDIATE",
-        "ADVANCED"
-      ],
+      "categories": ["INTERMEDIATE", "ADVANCED"],
       "seqNo": 10,
       "url": "angular-advanced-course",
       "price": 50
@@ -134,9 +117,7 @@
       },
       "iconUrl": "https://angular-academy.s3.amazonaws.com/thumbnails/typescript-2-small.png",
       "courseListIcon": "https://angular-academy.s3.amazonaws.com/thumbnails/typescript-2-lesson.png",
-      "categories": [
-        "BEGINNER"
-      ],
+      "categories": ["BEGINNER"],
       "seqNo": 11,
       "url": "typescript-course",
       "price": 50
@@ -149,9 +130,7 @@
       },
       "iconUrl": "https://s3-us-west-1.amazonaws.com/angular-academy/blog/images/rxjs-reactive-patterns-small.png",
       "courseListIcon": "https://angular-academy.s3.amazonaws.com/course-logos/observables_rxjs.png",
-      "categories": [
-        "BEGINNER"
-      ],
+      "categories": ["BEGINNER"],
       "seqNo": 12,
       "url": "rxjs-patterns-course",
       "price": 50
@@ -163,9 +142,7 @@
         "longDescription": "Build Applications with the official Angular Widget Library"
       },
       "iconUrl": "https://s3-us-west-1.amazonaws.com/angular-university/course-images/material_design.png",
-      "categories": [
-        "BEGINNER"
-      ],
+      "categories": ["BEGINNER"],
       "seqNo": 13,
       "url": "angular-material-course",
       "price": 50
@@ -177,9 +154,7 @@
         "longDescription": "In-depth guide to Unit Testing and E2E Testing of Angular Applications"
       },
       "iconUrl": "https://s3-us-west-1.amazonaws.com/angular-university/course-images/angular-testing-small.png",
-      "categories": [
-        "BEGINNER"
-      ],
+      "categories": ["BEGINNER"],
       "seqNo": 3,
       "url": "angular-testing-course",
       "lessonsCount": 10,
@@ -193,9 +168,7 @@
         "longDescription": "Build a modern REST backend using Typescript, MongoDB and the familiar Angular API."
       },
       "iconUrl": "https://angular-university.s3-us-west-1.amazonaws.com/course-images/nestjs-v2.png",
-      "categories": [
-        "BEGINNER"
-      ],
+      "categories": ["BEGINNER"],
       "lessonsCount": 10,
       "seqNo": 2,
       "url": "nestjs-course",
@@ -210,9 +183,7 @@
       },
       "iconUrl": "https://angular-university.s3-us-west-1.amazonaws.com/course-images/stripe-course.jpg",
       "lessonsCount": 10,
-      "categories": [
-        "BEGINNER"
-      ],
+      "categories": ["BEGINNER"],
       "seqNo": 0,
       "url": "stripe-course",
       "price": 50
