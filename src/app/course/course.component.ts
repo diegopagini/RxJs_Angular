@@ -37,6 +37,7 @@ export class CourseComponent implements OnInit {
       .loadAllCourseLessons(courseId)
       .pipe(startWith([]));
 
+    // This is the way to combine observables and use it in the template with only one ng-container
     this.data$ = combineLatest([course$, lessons$]).pipe(
       map(([course, lessons]) => {
         return {
