@@ -21,8 +21,8 @@ export class HomeComponent implements OnInit {
   }
 
   reloadCourses() {
+    // This way we can use the coursesStore to get the courses and not from the server
     this.beginnerCourses$ = this.coursesStore.filterByCategory("BEGINNER");
-
     this.advancedCourses$ = this.coursesStore.filterByCategory("ADVANCED");
   }
 }
